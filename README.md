@@ -11,12 +11,12 @@ This project is a stock prediction system that utilizes machine learning algorit
 5. Visualization: Visualizes real-time stock data, model predictions, and trends through dynamic charts and graphs.
 6. User Interface: Provides a user-friendly interface for users to interact with the system and view real-time predictions.
 
-7. # Installation
-8. 1. clone the repository:
-9. ### git clone https://github.com/yourusername/stock-prediction-system.git
+ # Installation
+ 1. clone the repository:
+ ### git clone https://github.com/tanishavyas22e/stock-prediction-system.git
    2. Install dependencies:
     ### pip install -r requirements.txt
-10. 
+
 
 
 11. 
