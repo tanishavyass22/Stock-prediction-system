@@ -14,9 +14,9 @@ This project is a stock prediction system that utilizes machine learning algorit
  # Installation
  1. clone the repository:
  ### git clone https://github.com/tanishavyas22e/stock-prediction-system.git
-   2. Install dependencies:
-    ### pip install -r requirements.txt
+  2. Install dependencies:
+   ### pip install -r requirements.txt
 
 
 
-11. 
+
